@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report ProjectFromCookbook", "Report ProjectFromCookbook\Report ProjectFromCookbook.rptproj", "{C0AA011E-93B6-442D-82C6-610225852457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0AA011E-93B6-442D-82C6-610225852457}.Debug|Default.ActiveCfg = Debug
+		{C0AA011E-93B6-442D-82C6-610225852457}.Debug|Default.Build.0 = Debug
+		{C0AA011E-93B6-442D-82C6-610225852457}.Debug|Default.Deploy.0 = Debug
+		{C0AA011E-93B6-442D-82C6-610225852457}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C0AA011E-93B6-442D-82C6-610225852457}.DebugLocal|Default.Build.0 = DebugLocal
+		{C0AA011E-93B6-442D-82C6-610225852457}.Release|Default.ActiveCfg = Release
+		{C0AA011E-93B6-442D-82C6-610225852457}.Release|Default.Build.0 = Release
+		{C0AA011E-93B6-442D-82C6-610225852457}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31F6EF6D-940B-41A1-A16D-5C5791F2F496}
+	EndGlobalSection
+EndGlobal
